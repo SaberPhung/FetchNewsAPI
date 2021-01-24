@@ -1,13 +1,15 @@
 # FetchNewsAPI
-fetch news with using news API
-News API is a simple HTTP REST API for searching and retrieving live articles from all over the web
-In this example I used an API to show Top headlines from TechCrunch.
-In order to do that:
-  -Install web requests in your chosen programming language
+# fetch news with using news API
+- News API is a simple HTTP REST API for searching and retrieving live articles from all over the web
+- In this example I used an API to show Top headlines from TechCrunch.
+- In order to do that:
+  >Install web requests in your chosen programming language
 with PYTHON was:
---pip install requests--
-  -Visiting https://newsapi.org/ to get your API key
-  -Creating a small py script to show result, such as title as below:
+```sh
+pip install requests
+```
+- Visiting https://newsapi.org/ to get your API key
+  >Creating a small py script to show result, such as title as below:
   
   
   1 Clubhouse announces plans for creator payments and raises new funding led by Andreessen Horowitz  
